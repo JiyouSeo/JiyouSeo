@@ -1,8 +1,8 @@
 Here are some ideas to get you started:
 # JiyouSeo
-- 👋 Hi there! I'm interested in **Computer Vision**.
-- 🔭 I'm currently working on **Application Platform Lab(Hongik Univ)**.
-- 🌱 I’m currently learning **Face Recognition, Object Detection and so on**.
+- 👋  Hi there! I'm interested in **Computer Vision**.
+- 🔭  I'm currently working on **Application Platform Lab(Hongik Univ)**.
+- 🌱  I’m currently learning **Face Recognition** , **Object Detection** and so on.
 
 
 ## Skills
