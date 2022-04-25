@@ -1,6 +1,5 @@
 # JiyouSeo
 - 👋  Hi there! I'm interested in **Computer Vision**.
-- 🔭  I worked as an undergraduate researcher at **Application Platform Lab(Hongik Univ)**.
 - 🌱  I’m currently learning **Classification** , **Object Detection** and so on.
 
 
